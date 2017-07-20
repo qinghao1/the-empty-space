@@ -1,1 +1,14 @@
-/* CSS declarations go here */
+/* Main components */
+
+/* Tweet Box */
+.tweetBox {
+	display: block;
+	padding-top: 1em;
+}
+
+/* Tweets List */
+.tweetsList {
+	display: block;
+	padding-top: 1em;
+	clear: both;
+}
